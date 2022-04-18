@@ -1,6 +1,6 @@
 ## Projeto Landing Page Netflix.
 
-* Nesse projrto, foi desenvolvido com Javascript
+* Nesse projeto, foi desenvolvido com Javascript
 
 * Esse projeto foi baseado no tutorial do canal, [Anderson Marlon](https://www.youtube.com/watch?v=UR0Dx9OABnU&t=678s)
   
